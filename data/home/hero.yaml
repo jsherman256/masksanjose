@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Keep San José **safe** with free masks"
+  text: "We provide free, high quality face masks to anyone who needs one."
+
+  buttonPrimary:
+    label: "Find Masks"
+    url: "/locations"
+
+  buttonSecondary:
+    label: "Request Masks"
+    url: "/request"
+

@@ -1,0 +1,79 @@
+baseURL: "https://masksanjose.org/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Mask Bloc San José"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  description: "We provide free, high quality face masks to anyone who needs one."
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    instagram: "https://instagram.com/masksanjose"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "San José, California"
+
+  contact:
+    - "masks@masksanjose.org"
+
+  copyright: "© 2023 Mask Bloc San José. All Rights Reserved. Logo by mangsaabguru via unsplash. Header image by Vasyl Sh via vecteezy."
+
+menus:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "Find Masks"
+      url: "/find"
+      weight: 2
+
+    - name: "Wear Instructions"
+      url: "/wear"
+      weight: 3
+
+    - name: "FAQs"
+      url: "/faq"
+      weight: 4
+
+  buttons:
+    - name: "Request Masks"
+      url: "/request"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "Find Masks"
+      url: "/find"
+      weight: 2
+
+    - name: "Wear Instructions"
+      url: "/wear"
+      weight: 3
+
+    - name: "FAQs"
+      url: "/faq"
+      weight: 4
+
+    - name: "Request Masks"
+      url: "/request"
+      weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"
