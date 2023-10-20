@@ -3,13 +3,13 @@ id: "hero"
 
 content:
   title: "Keep San José **safe** with free masks"
-  text: "We provide free, high quality face masks to anyone who needs one."
+  text: "We're a mutual-aid organization dedicated to providing free, high quality face masks to anyone who needs one."
 
   buttonPrimary:
     label: "Find Masks"
-    url: "/locations"
+    url: "/find"
 
   buttonSecondary:
     label: "Request Masks"
-    url: "/request"
+    url: "https://form.jotform.com/232922182393053"
 

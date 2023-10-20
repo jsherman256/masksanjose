@@ -9,7 +9,7 @@ title: "Mask Bloc San José"
 summaryLength: 20
 
 params:
-  description: "We provide free, high quality face masks to anyone who needs one."
+  description: "We give free face masks to anyone who needs one."
 
   favicons:
     themeColor: "#FFFFFF"
@@ -17,9 +17,7 @@ params:
     faviconColor: "#000000"
 
   social:
-    instagram: "https://instagram.com/masksanjose"
-    facebook: "#"
-    twitter: "#"
+    instagram: "https://www.instagram.com/maskblocksanjose/"
 
   location:
     - "San José, California"
@@ -43,13 +41,9 @@ menus:
       url: "/wear"
       weight: 3
 
-    - name: "FAQs"
-      url: "/faq"
-      weight: 4
-
   buttons:
     - name: "Request Masks"
-      url: "/request"
+      url: "https://form.jotform.com/232922182393053"
       weight: 5
       pre: "btn btn-primary text-light"
 
@@ -66,12 +60,8 @@ menus:
       url: "/wear"
       weight: 3
 
-    - name: "FAQs"
-      url: "/faq"
-      weight: 4
-
     - name: "Request Masks"
-      url: "/request"
+      url: "https://form.jotform.com/232922182393053"
       weight: 5
 
 taxonomies:

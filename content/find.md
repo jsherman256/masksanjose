@@ -1,8 +1,5 @@
 ---
 title: "Find Masks"
-description: ""
-date: "2019-02-28"
-author: "Hugo Authors"
 ---
 
 {{< rawhtml >}}
