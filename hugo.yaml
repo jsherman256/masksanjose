@@ -10,6 +10,8 @@ summaryLength: 20
 
 params:
   description: "We give free face masks to anyone who needs one."
+  images:
+    - "/images/hero-image.png"
 
   favicons:
     themeColor: "#FFFFFF"
