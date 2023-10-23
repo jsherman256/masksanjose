@@ -29,6 +29,8 @@ params:
 
   copyright: "© 2023 Mask Bloc San José. All Rights Reserved. Logo by mangsaabguru via unsplash. Header image by Vasyl Sh via vecteezy."
 
+  plausible: "masksanjose.org"
+
 menus:
   main:
     - name: "Home"
