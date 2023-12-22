@@ -4,7 +4,7 @@ images:
   - "/images/wellbefore-kn95.webp"
   - "/images/wellbefore-sizing.webp"
 aliases:
-  - "/wb-kn95"
+  - "/wb"
 ---
 
 The **WellBefore KN95** is a flat fold mask. It comes in fixed earloop and adjustable earloop versions. To get a proper fit, its important to mold the nose bridge and tighten the earloops, if possible. It comes in three different sizes and many different colors.

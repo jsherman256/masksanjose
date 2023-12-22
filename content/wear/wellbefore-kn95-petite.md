@@ -4,7 +4,7 @@ images:
   - "/images/wellbefore-kn95.webp"
   - "/images/wellbefore-sizing.webp"
 aliases:
-  - "/wb-kn95-petite"
+  - "/wb-kids"
 ---
 
 The **WellBefore KN95 (Petite/Kids)** is a flat fold mask appropriate for kids and adults with smaller faces. It comes in fixed earloop and adjustable earloop versions. To get a proper fit, its important to mold the nose bridge and tighten the earloops, if possible. It comes in three different sizes and many different colors.
