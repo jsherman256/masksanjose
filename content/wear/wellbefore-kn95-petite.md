@@ -1,21 +1,21 @@
 ---
-title: "WellBefore Kids KN95"
+title: "WellBefore KN95 (Petite/Kids)"
 images:
-  - "/images/wellbefore-kids.webp"
+  - "/images/wellbefore-kn95.webp"
   - "/images/wellbefore-sizing.webp"
 aliases:
-  - "/wb-kids"
+  - "/wb-kn95-petite"
 ---
 
-The **WellBefore Kids KN95** is a vertical bifold mask with adjustable earloop straps. To get a proper fit, its important to adjust the earloop straps and mold the nose bridge. It comes in three different sizes for different age ranges.
+The **WellBefore KN95 (Petite/Kids)** is a flat fold mask appropriate for kids and adults with smaller faces. It comes in fixed earloop and adjustable earloop versions. To get a proper fit, its important to mold the nose bridge and tighten the earloops, if possible. It comes in three different sizes and many different colors.
 
 ---
 
 {{< figure src="/images/wellbefore-sizing.webp" alt="WellBefore mask sizing guide. Width is measured by the distance between cheek bones. Length is measured by the distance between the middle of the nose and end of the chin" width="300" >}} 
 
-| Size | Width (in) | Length (in) | Ages |
+| Size | Width (inches) | Length (inches) | Ages |
 | --- | :---: | :---: | ---: |
-| X-Small | 3.75 | 4.35 | 2 - 4 years |
+| X-Small	| 3.75 | 4.35 | 2 - 4 years |
 | Small | 4.15 | 4.9 | 5 - 8 years |
 | Regular | 4.5 | 5.7 | 9 - 12 years |
 
