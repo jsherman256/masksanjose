@@ -45,6 +45,10 @@ menus:
       url: "/wear"
       weight: 3
 
+    - name: "Resources"
+      url: "/resources"
+      weight: 4
+
   buttons:
     - name: "Request Masks"
       url: "https://form.jotform.com/232922182393053"
