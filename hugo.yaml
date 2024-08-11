@@ -49,6 +49,10 @@ menus:
       url: "/resources"
       weight: 4
 
+    - name: "Donate"
+      url: "/donate"
+      weight: 5
+
   buttons:
     - name: "Request Masks"
       url: "https://form.jotform.com/232922182393053"
@@ -67,6 +71,10 @@ menus:
     - name: "Wear Instructions"
       url: "/wear"
       weight: 3
+
+    - name: "Donate"
+      url: "/donate"
+      weight: 4
 
     - name: "Request Masks"
       url: "https://form.jotform.com/232922182393053"
